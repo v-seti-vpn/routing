@@ -60,3 +60,7 @@
 ||api.ipify.org^$dnsrewrite=NOERROR;A;0.0.0.1
 ||checkip.amazonaws.com^$dnsrewrite=NOERROR;A;0.0.0.1
 ||ifconfig.me^$dnsrewrite=NOERROR;A;0.0.0.1
+||browserleaks.com^$dnsrewrite=NOERROR;A;0.0.0.1
+||check-host.net^$dnsrewrite=NOERROR;A;0.0.0.1
+||ipapi.is^$dnsrewrite=NOERROR;A;0.0.0.1
+||iplocate.io^$dnsrewrite=NOERROR;A;0.0.0.1
